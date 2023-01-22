@@ -1,4 +1,4 @@
 from unicodedata import name
 
 
-print('\nHappy')
+print('\nHappy new year')
